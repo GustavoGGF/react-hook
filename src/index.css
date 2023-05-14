@@ -22,3 +22,9 @@ html {
 .fontRBTSL {
   font-family: "Roboto Slab", serif;
 }
+
+.fontWT {
+  color: var(#fdf0d5);
+  font-weight: bold;
+  font-size: 1.2em;
+}
